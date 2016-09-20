@@ -1,0 +1,17 @@
+{
+  "name": "angular-tree-menu",
+  "authors": [
+    "Sanchit <dev@minutephp.com>"
+  ],
+  "description": "creates a dynamic tree menu in sidebar",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
